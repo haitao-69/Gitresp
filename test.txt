@@ -1,3 +1,6 @@
 git branch -v 查看分支状态
 git branch 分支名 创建分支
 git checkout 分支名 切换指定分支
+git remote -v 查看别名
+git remote add 别名 url 给远程仓库地址起一个别名
+git push 别名 分支名 更新远程仓库代码
