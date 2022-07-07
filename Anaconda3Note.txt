@@ -1,0 +1,13 @@
+conda info                   查看当前channel
+conda create -n 环境名       创建环境
+conda info --envs            查看当前conda所有环境
+
+激活环境(都可以)：
+	Conda activate 环境名
+	Source activate 环境名
+	activate 环境名
+
+
+查看环境中现有的包：
+	conda list
+	pip list
