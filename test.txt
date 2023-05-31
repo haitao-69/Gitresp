@@ -6,3 +6,6 @@ git remote add 别名 url 给远程仓库地址起一个别名
 git push 别名 分支名 更新远程仓库代码
 git fetch 别名 远程仓库分支 拉取远程仓库（但工作区没有改变，没有合并）
 git pull 别名 远程库分支 直接拉取
+
+啦啦啦
+
